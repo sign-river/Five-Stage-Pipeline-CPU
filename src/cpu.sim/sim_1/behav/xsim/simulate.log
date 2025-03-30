@@ -1,0 +1,3 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+$stop called at time : 2395 ns : File "C:/Users/32173/cpu/cpu.srcs/sim_1/new/openmips_min_sopc_tb.v" Line 50

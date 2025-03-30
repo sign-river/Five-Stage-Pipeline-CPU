@@ -1,0 +1,23 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/32173/cpu/cpu.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/32173/cpu/cpu.srcs/sim_1/new/openmips_min_sopc_tb.v,1736775110,verilog,,,C:/Users/32173/cpu/cpu.srcs/sources_1/new/defines.v,openmips_min_sopc_tb,,,../../../../cpu.srcs/sources_1/new,,,,,
+C:/Users/32173/cpu/cpu.srcs/sources_1/new/ctrl.v,1736617247,verilog,,C:/Users/32173/cpu/cpu.srcs/sources_1/new/data_ram.v,C:/Users/32173/cpu/cpu.srcs/sources_1/new/defines.v,ctrl,,,../../../../cpu.srcs/sources_1/new,,,,,
+C:/Users/32173/cpu/cpu.srcs/sources_1/new/data_ram.v,1736589365,verilog,,C:/Users/32173/cpu/cpu.srcs/sources_1/new/div.v,C:/Users/32173/cpu/cpu.srcs/sources_1/new/defines.v,data_ram,,,../../../../cpu.srcs/sources_1/new,,,,,
+C:/Users/32173/cpu/cpu.srcs/sources_1/new/defines.v,1736644536,verilog,,C:/Users/32173/cpu/cpu.srcs/sources_1/new/ctrl.v,,,,,../../../../cpu.srcs/sources_1/new,,,,,
+C:/Users/32173/cpu/cpu.srcs/sources_1/new/div.v,1736816587,verilog,,C:/Users/32173/cpu/cpu.srcs/sources_1/new/ex.v,C:/Users/32173/cpu/cpu.srcs/sources_1/new/defines.v,div,,,../../../../cpu.srcs/sources_1/new,,,,,
+C:/Users/32173/cpu/cpu.srcs/sources_1/new/ex.v,1736610071,verilog,,C:/Users/32173/cpu/cpu.srcs/sources_1/new/ex_mem.v,C:/Users/32173/cpu/cpu.srcs/sources_1/new/defines.v,ex,,,../../../../cpu.srcs/sources_1/new,,,,,
+C:/Users/32173/cpu/cpu.srcs/sources_1/new/ex_mem.v,1736600322,verilog,,C:/Users/32173/cpu/cpu.srcs/sources_1/new/hilo_reg.v,C:/Users/32173/cpu/cpu.srcs/sources_1/new/defines.v,ex_mem,,,../../../../cpu.srcs/sources_1/new,,,,,
+C:/Users/32173/cpu/cpu.srcs/sources_1/new/hilo_reg.v,1736540349,verilog,,C:/Users/32173/cpu/cpu.srcs/sources_1/new/id.v,C:/Users/32173/cpu/cpu.srcs/sources_1/new/defines.v,hilo_reg,,,../../../../cpu.srcs/sources_1/new,,,,,
+C:/Users/32173/cpu/cpu.srcs/sources_1/new/id.v,1736628819,verilog,,C:/Users/32173/cpu/cpu.srcs/sources_1/new/id_ex.v,C:/Users/32173/cpu/cpu.srcs/sources_1/new/defines.v,id,,,../../../../cpu.srcs/sources_1/new,,,,,
+C:/Users/32173/cpu/cpu.srcs/sources_1/new/id_ex.v,1736597213,verilog,,C:/Users/32173/cpu/cpu.srcs/sources_1/new/if_id.v,C:/Users/32173/cpu/cpu.srcs/sources_1/new/defines.v,id_ex,,,../../../../cpu.srcs/sources_1/new,,,,,
+C:/Users/32173/cpu/cpu.srcs/sources_1/new/if_id.v,1736597216,verilog,,C:/Users/32173/cpu/cpu.srcs/sources_1/new/inst_rom.v,C:/Users/32173/cpu/cpu.srcs/sources_1/new/defines.v,if_id,,,../../../../cpu.srcs/sources_1/new,,,,,
+C:/Users/32173/cpu/cpu.srcs/sources_1/new/inst_rom.v,1736815964,verilog,,C:/Users/32173/cpu/cpu.srcs/sources_1/new/mem.v,C:/Users/32173/cpu/cpu.srcs/sources_1/new/defines.v,inst_rom,,,../../../../cpu.srcs/sources_1/new,,,,,
+C:/Users/32173/cpu/cpu.srcs/sources_1/new/mem.v,1736611118,verilog,,C:/Users/32173/cpu/cpu.srcs/sources_1/new/mem_wb.v,C:/Users/32173/cpu/cpu.srcs/sources_1/new/defines.v,mem,,,../../../../cpu.srcs/sources_1/new,,,,,
+C:/Users/32173/cpu/cpu.srcs/sources_1/new/mem_wb.v,1736611034,verilog,,C:/Users/32173/cpu/cpu.srcs/sources_1/new/openmips.v,C:/Users/32173/cpu/cpu.srcs/sources_1/new/defines.v,mem_wb,,,../../../../cpu.srcs/sources_1/new,,,,,
+C:/Users/32173/cpu/cpu.srcs/sources_1/new/openmips.v,1736617247,verilog,,C:/Users/32173/cpu/cpu.srcs/sources_1/new/openmips_min_sopc.v,C:/Users/32173/cpu/cpu.srcs/sources_1/new/defines.v,openmips,,,../../../../cpu.srcs/sources_1/new,,,,,
+C:/Users/32173/cpu/cpu.srcs/sources_1/new/openmips_min_sopc.v,1736589449,verilog,,C:/Users/32173/cpu/cpu.srcs/sources_1/new/pc_reg.v,C:/Users/32173/cpu/cpu.srcs/sources_1/new/defines.v,openmips_min_sopc,,,../../../../cpu.srcs/sources_1/new,,,,,
+C:/Users/32173/cpu/cpu.srcs/sources_1/new/pc_reg.v,1736593842,verilog,,C:/Users/32173/cpu/cpu.srcs/sources_1/new/regfile.v,C:/Users/32173/cpu/cpu.srcs/sources_1/new/defines.v,pc_reg,,,../../../../cpu.srcs/sources_1/new,,,,,
+C:/Users/32173/cpu/cpu.srcs/sources_1/new/regfile.v,1736540349,verilog,,C:/Users/32173/cpu/cpu.srcs/sim_1/new/openmips_min_sopc_tb.v,C:/Users/32173/cpu/cpu.srcs/sources_1/new/defines.v,regfile,,,../../../../cpu.srcs/sources_1/new,,,,,

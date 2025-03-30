@@ -1,0 +1,47 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: D:/vivado/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto 98506479ee284867b87ac487cf5f3d0d --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot openmips_min_sopc_tb_behav xil_defaultlib.openmips_min_sopc_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 4 for port 'ram_ce_o' [C:/Users/32173/cpu/cpu.srcs/sources_1/new/openmips_min_sopc.v:35]
+WARNING: [VRFC 10-3091] actual bit length 4 differs from formal bit length 1 for port 'mem_ce_o' [C:/Users/32173/cpu/cpu.srcs/sources_1/new/openmips.v:348]
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Users/32173/cpu/cpu.srcs/sources_1/new/openmips_min_sopc.v" Line 3. Module openmips_min_sopc doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/32173/cpu/cpu.srcs/sources_1/new/openmips.v" Line 3. Module openmips doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/32173/cpu/cpu.srcs/sources_1/new/pc_reg.v" Line 3. Module pc_reg doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/32173/cpu/cpu.srcs/sources_1/new/if_id.v" Line 3. Module if_id doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/32173/cpu/cpu.srcs/sources_1/new/id.v" Line 3. Module id doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/32173/cpu/cpu.srcs/sources_1/new/regfile.v" Line 3. Module regfile doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/32173/cpu/cpu.srcs/sources_1/new/id_ex.v" Line 3. Module id_ex doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/32173/cpu/cpu.srcs/sources_1/new/ex.v" Line 3. Module ex doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/32173/cpu/cpu.srcs/sources_1/new/ex_mem.v" Line 3. Module ex_mem doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/32173/cpu/cpu.srcs/sources_1/new/mem.v" Line 3. Module mem doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/32173/cpu/cpu.srcs/sources_1/new/mem_wb.v" Line 3. Module mem_wb doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/32173/cpu/cpu.srcs/sources_1/new/hilo_reg.v" Line 3. Module hilo_reg doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/32173/cpu/cpu.srcs/sources_1/new/ctrl.v" Line 3. Module ctrl doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/32173/cpu/cpu.srcs/sources_1/new/div.v" Line 3. Module div doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/32173/cpu/cpu.srcs/sources_1/new/inst_rom.v" Line 3. Module inst_rom doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/32173/cpu/cpu.srcs/sources_1/new/data_ram.v" Line 3. Module data_ram doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.pc_reg
+Compiling module xil_defaultlib.if_id
+Compiling module xil_defaultlib.id
+Compiling module xil_defaultlib.regfile
+Compiling module xil_defaultlib.id_ex
+Compiling module xil_defaultlib.ex
+Compiling module xil_defaultlib.ex_mem
+Compiling module xil_defaultlib.mem
+Compiling module xil_defaultlib.mem_wb
+Compiling module xil_defaultlib.hilo_reg
+Compiling module xil_defaultlib.ctrl
+Compiling module xil_defaultlib.div
+Compiling module xil_defaultlib.openmips
+Compiling module xil_defaultlib.inst_rom
+Compiling module xil_defaultlib.data_ram
+Compiling module xil_defaultlib.openmips_min_sopc
+Compiling module xil_defaultlib.openmips_min_sopc_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot openmips_min_sopc_tb_behav
